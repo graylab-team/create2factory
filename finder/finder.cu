@@ -44,7 +44,7 @@ __device__ int scoring(Address a) {
             }
         }
     }
-    return n >> 3;
+    return n >> 2;
 }
 
 #ifdef __linux__
