@@ -1,0 +1,6 @@
+[submodule "lib/forge-std"]
+	path = lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "lib/vanity-eth-address"]
+	path = lib/vanity-eth-address
+	url = https://github.com/MrSpike63/vanity-eth-address.git
